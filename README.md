@@ -9,3 +9,7 @@ for an RPi user application which can configure the FPGA via GPIO and SPI ports
 as well as communicate with a simple SPI slave hosted on the FPGA. Verilog
 source for the FPGA test design is also included.
 
+Credits: 
+
+Portions of the KiCAD design are based on the RPi_Hat_Template from
+xesscorp: https://github.com/xesscorp/RPi_Hat_Template
