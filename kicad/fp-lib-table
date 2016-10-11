@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name emeb)(type KiCad)(uri /home/ericb/KBADC/kicad/footprints.pretty)(options "")(descr ""))
+)
