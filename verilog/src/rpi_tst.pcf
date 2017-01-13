@@ -15,7 +15,7 @@
 ###IOSet List 17
 set_io SPI_MISO 14
 set_io SPI_SCLK 15
-set_io SPI_CSL 18
+set_io SPI_CSL 13
 set_io SPI_MOSI 17
 
 
