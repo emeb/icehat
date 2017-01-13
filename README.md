@@ -9,6 +9,10 @@ for an RPi user application which can configure the FPGA via GPIO and SPI ports
 as well as communicate with a simple SPI slave hosted on the FPGA. Verilog
 source for the FPGA test design is also included.
 
+For more info on this project, please see the web page at:
+
+http://ebrombaugh.studionebula.com/embedded/icehat/index.html
+
 Credits: 
 
 Portions of the KiCAD design are based on the RPi_Hat_Template from
